@@ -2,6 +2,9 @@
 see the road site
 
 TODO
-Improvenate description
-Add CNAME file for custom url
-Betterise theme
+Improvenate description.
+
+Add CNAME file for custom url.
+
+Betterise theme.
+
