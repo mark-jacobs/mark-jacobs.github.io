@@ -1,0 +1,14 @@
+# Site settings
+title: See the Road
+email: jk_scowling@yahoo.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  See the Road - Record label and techno artist(s)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://seetheroad.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+soundcloud_username: seetheroad
+twitter_username: seetheroad
+facebook_username: seetheroad
+# Build settings
+markdown: kramdown
